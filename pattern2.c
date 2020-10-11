@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<iostream>
+using namespace std;
 int main()
 {
     int i,j;
@@ -13,4 +15,5 @@ int main()
             printf("*");
         }printf("\n");
     }
+   
 }
